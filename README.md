@@ -1,5 +1,5 @@
-Hi there! My name is Samuel Mwanyasi and I'm based in Nairobi, Kenya. T'm a Technical Business, Data and Systems Analayst by day and A Software Engineer By Night! 👀. 
-My intrest is analysing and building scalable solutions that can serve the human kind. 
+Hi there! My name is Samuel Mwanyasi and I'm based in Nairobi, Kenya. I'm a Technical Business Analyst, Data and Systems Analayst by day and A Software Engineer By Night! 👀. 
+My intrest is in analysing and building scalable solutions that can serve the human kind. 
 In my Analysis Career Path I have deliverd FinTec Projects while working with a Giant African bank and later on  with an International Vendor of Core Banking Systems.
 
 As a Developer, I made <a href='www.VassBot.com'> VassBot </a> a SAAS Plartform that hosts Intelligent ChatBots that Can be Customized that Can accelerate Customer Engagement and growth in any Business and Industry.
